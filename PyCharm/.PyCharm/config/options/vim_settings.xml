@@ -1,0 +1,467 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/talk_python/program.py" timestamp="1527789099729">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/09_real_estate/program.py" timestamp="1532797463833">
+        <mark key="'" line="31" column="34" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="58" column="68" />
+      </file>
+      <file name="/Python Console" timestamp="1539723083712">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1539723156987">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ToDo/Todo.kv" timestamp="1537304184415">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cmput-291/sqlite3-example1.py" timestamp="1539382411178">
+        <mark key="[" line="98" column="34" />
+        <mark key="]" line="98" column="32" />
+        <mark key="." line="98" column="32" />
+        <mark key="^" line="98" column="32" />
+      </file>
+      <file name="/a.dummy" timestamp="1534880092790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/crash-course/tutorial.kv" timestamp="1537300782804">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/06-cat-factory/cat.py" timestamp="1532038894318">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/Pong/main.py" timestamp="1533152448643">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cmput-291/mini-project-1/commands.py" timestamp="1541376489798">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cmput-291/mini-project-1/main.py" timestamp="1541376521346">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/Paint/paint.py" timestamp="1533157917215">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/06-cat-factory/program.py" timestamp="1532039017953">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/main.py" timestamp="1533144377093">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ToDo/main.py" timestamp="1537370921544">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cmput-291/mini-project-1/ride_search.py" timestamp="1541376362571">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="163" column="16" />
+        <mark key="^" line="163" column="16" />
+        <mark key="." line="163" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/img_processor/cImage.py" timestamp="1539723653797">
+        <mark key="'" line="266" column="33" />
+        <mark key="[" line="111" column="30" />
+        <mark key="]" line="111" column="25" />
+        <mark key="^" line="111" column="25" />
+        <mark key="." line="111" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/07_wizard_battle/actors.py" timestamp="1532047591137">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="15" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/09_real_estate/Purchases.py" timestamp="1532793449004">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/Paint/main.py" timestamp="1533152683787">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/07_wizard_battle/program.py" timestamp="1532047639429">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/program.py" timestamp="1534879679430">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ToDo/action_file.txt" timestamp="1537367384370">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/talk_python/guess_the_number.py" timestamp="1527790700817">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="61" />
+        <mark key="." line="17" column="61" />
+        <mark key="^" line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/06_lolcat_factory/program.py" timestamp="1532042331531">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539724060032">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/04-journal/editor.py" timestamp="1528238673972">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ToDo/todo.kv" timestamp="1537371885062">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/crash-course/buildozer.spec" timestamp="1534881646018">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98f32827-c25c-4a4a-bf36-a3e0f2ca4b7f/console.sql" timestamp="1541375571897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/talk_python/birthday.py" timestamp="1527823616262">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="41" />
+        <mark key="^" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/journal.py" timestamp="1527876302839">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/editor.py" timestamp="1527875938144">
+        <mark key="'" line="26" column="34" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/pong.kv" timestamp="1533080174008">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/Pong/pong.kv" timestamp="1533152183823">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/05-weather/program.py" timestamp="1528245668207">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/04-journal/journal.py" timestamp="1528238635485">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="74" />
+        <mark key="^" line="9" column="74" />
+        <mark key="." line="9" column="74" />
+      </file>
+      <file name="$USER_HOME$/proj/learn_kivy/crash-course/main.py" timestamp="1537300894868">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ToDo/TodoList.kv" timestamp="1537301744779">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/img_processor/k-colouring.py" timestamp="1539723995496">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="54" column="38" />
+        <mark key="]" line="54" column="42" />
+        <mark key="^" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/06_lolcat_factory/cat_service.py" timestamp="1532041613711">
+        <mark key="'" line="17" column="45" />
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/talk_python/08_file_search/program.py" timestamp="1532737908427">
+        <mark key="'" line="65" column="29" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+      </file>
+      <file name="/usr/lib/python3.6/tkinter/__init__.py" timestamp="1539721310056">
+        <mark key="'" line="3504" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/talk_python/birthday.py" />
+      <jump line="21" column="11" filename="$USER_HOME$/talk_python/birthday.py" />
+      <jump line="40" column="39" filename="$USER_HOME$/talk_python/birthday.py" />
+      <jump line="25" column="34" filename="$USER_HOME$/Documents/talk_python/editor.py" />
+      <jump line="11" column="43" filename="$USER_HOME$/Documents/talk_python/05-weather/program.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/Documents/talk_python/05-weather/program.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/Documents/talk_python/05-weather/program.py" />
+      <jump line="14" column="45" filename="$USER_HOME$/Documents/talk_python/06_lolcat_factory/cat_service.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/talk_python/07_wizard_battle/program.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/talk_python/08_file_search/program.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/talk_python/08_file_search/program.py" />
+      <jump line="70" column="22" filename="$USER_HOME$/Documents/talk_python/08_file_search/program.py" />
+      <jump line="65" column="29" filename="$USER_HOME$/Documents/talk_python/08_file_search/program.py" />
+      <jump line="29" column="34" filename="$USER_HOME$/Documents/talk_python/09_real_estate/program.py" />
+      <jump line="6" column="32" filename="$USER_HOME$/proj/learn_kivy/pong.kv" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/learn_kivy/pong.kv" />
+      <jump line="17" column="12" filename="$USER_HOME$/proj/learn_kivy/program.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/proj/learn_kivy/program.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/proj/learn_kivy/program.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/proj/learn_kivy/crash-course/buildozer.spec" />
+      <jump line="46" column="12" filename="$USER_HOME$/Desktop/ToDo/main.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/Desktop/ToDo/action_file.txt" />
+      <jump line="60" column="16" filename="$USER_HOME$/Desktop/ToDo/main.py" />
+      <jump line="7" column="24" filename="$USER_HOME$/Desktop/ToDo/main.py" />
+      <jump line="3577" column="26" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3586" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3596" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3607" column="52" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3610" column="52" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3656" column="34" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3667" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3671" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3679" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3686" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3691" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3698" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3706" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3711" column="17" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3737" column="17" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3819" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3826" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3839" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3844" column="17" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3864" column="17" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3897" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3973" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="322" column="23" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="314" column="14" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="306" column="31" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="293" column="5" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="274" column="5" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="120" column="8" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="112" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="109" column="18" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="89" column="17" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="48" column="13" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="47" column="12" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="46" column="12" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="44" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="43" column="19" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="37" column="5" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="35" column="8" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="29" column="0" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="27" column="9" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="25" column="8" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="23" column="8" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="22" column="0" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="21" column="5" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3979" column="38" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="20" column="7" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="36" column="20" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="505" column="27" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="551" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="566" column="11" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="657" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="663" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="670" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="749" column="27" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="774" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="801" column="19" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="892" column="19" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="1394" column="32" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="1416" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="1426" column="15" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="1441" column="28" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="1570" column="32" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3012" column="39" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3459" column="18" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="3504" column="19" filename="/usr/lib/python3.6/tkinter/__init__.py" />
+      <jump line="128" column="22" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/img_processor/k-colouring.py" />
+      <jump line="158" column="19" filename="$USER_HOME$/Documents/img_processor/k-colouring.py" />
+      <jump line="5" column="19" filename="$USER_HOME$/Documents/img_processor/k-colouring.py" />
+      <jump line="289" column="41" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="279" column="25" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="471" column="21" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="260" column="17" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="265" column="47" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+      <jump line="266" column="33" filename="$USER_HOME$/Documents/img_processor/cImage.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>commands</text>
+      </register>
+      <register name="-" type="4">
+        <text>commands</text>
+      </register>
+      <register name="/" type="4">
+        <text>setTkPixel</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciByb3cgaW4gcmFuZ2UoaW1hZ2UuZ2V0SGVpZ2h0KCkxKToK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBjb21tYW5kcyBpbXBvcnQgcmlkZV9zZWFyY2gK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIHJpZGVfc2VhcmNoKGN1cnNvciwgdXNlcik6CiAgICAiIiJUYWtlIGEgY3Vyc29yIGFuZCB1c2VyIGFuZCBmaW5kIHRoZSByaWRlcyB0aGV5IHdhbnQgdG8gc2VlLgoKICAgIFByb21wdCB0aGUgdXNlciBmb3Iga2V5d29yZHMgYW5kIHJldHVybiBhbGwgdGhlIHJpZGVzIHRoYXQgbWF0Y2ggdGhvc2UKICAgIGtleXdvcmRzLgogICAgIiIiCgogICAgc2VhcmNoID0gICAgJycnCiAgICAgICAgU0VMRUNUIHIucm5vLCByLnByaWNlLCByLnJkYXRlLCByLnNlYXRzLCByLmx1Z0Rlc2MsIHIuc3JjLCByLmRzdCwKICAgICAgICAgICAgICAgIHIuZHJpdmVyLCByLmNubywgci5tYWtlLCByLm1vZGVsLCByLnllYXIsIHIuY3NlYXRzLCByLm93bmVyCiAgICAgICAgICBGUk9NICgocmlkZXMgTEVGVCBPVVRFUiBKT0lOIGVucm91dGUgVVNJTkcocm5vKSkKICAgICAgICAgICAgICAgIExFRlQgT1VURVIgSk9JTiAoU0VMRUNUIGNubywgbWFrZSwgbW9kZWwsIHllYXIsIHNlYXRzIEFTCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjc2VhdHMsIG93bmVyIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gY2FycykgQVMgY2FycyBVU0lORyAoY25vKSkgQVMgciwKICAgICAgICAgICAgICAgIGxvY2F0aW9ucyBBUyBzcmMsIGxvY2F0aW9ucyBBUyBkc3QKICAgICAgICAgV0hFUkUgKHIuZHN0ID0gZHN0Lmxjb2RlIEFORCByLnNyYyA9IHNyYy5sY29kZQogICAgICAgICAgICAgICAgQU5EICgoOmtleSA9IHNyYy5sY29kZQogICAgICAgICAgICAgICAgICAgICAgICBPUiBzcmMuY2l0eSBMSUtFIDprZXlzdHIKICAgICAgICAgICAgICAgICAgICAgICAgT1Igc3JjLnByb3YgTElLRSA6a2V5c3RyCiAgICAgICAgICAgICAgICAgICAgICAgIE9SIHNyYy5hZGRyZXNzIExJS0UgOmtleXN0cikKICAgICAgICAgICAgICAgICAgICAgIE9SICg6a2V5ID0gZHN0Lmxjb2RlCiAgICAgICAgICAgICAgICAgICAgICAgIE9SIGRzdC5jaXR5IExJS0UgOmtleXN0cgogICAgICAgICAgICAgICAgICAgICAgICBPUiBkc3QucHJvdiBMSUtFIDprZXlzdHIKICAgICAgICAgICAgICAgICAgICAgICAgT1IgZHN0LmFkZHJlc3MgTElLRSA6a2V5c3RyKQogICAgICAgICAgICAgICAgICAgICAgT1IgKHIubGNvZGUgSVMgTk9UIE5VTEwKICAgICAgICAgICAgICAgICAgICAgICAgIEFORCAoci5sY29kZSBJTiAoU0VMRUNUIGVuLmxjb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBsb2NhdGlvbnMgQVMgZW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIHIubGNvZGUgPSBlbi5sY29kZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgKDprZXkgPSBlbi5sY29kZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT1IgZW4uY2l0eSBMSUtFIDprZXlzdHIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9SIGVuLnByb3YgTElLRSA6a2V5c3RyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPUiBlbi5hZGRyZXNzIExJS0UgOmtleXN0cikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAnJycKCiAgICBwcmludCgiRW50ZXIgdXAgdG8gMyBrZXl3b3JkczoiKQogICAgIyBnZXQga2V5d29yZHMKICAgIGtleXdvcmRzID0gaW5wdXQoIj4gIikuc3BsaXQoKQogICAgIyBhZGQgd2lsZGNhcmRzIGZvciBzdWJzdHJpbmcgbWF0Y2hpbmcKICAgIGtleXdvcmRfc3RyID0gWyclJyArIHdvcmQgKyAnJScgZm9yIHdvcmQgaW4ga2V5d29yZHNdCiAgICAjIGNvbnN0cnVjdCBkaWN0IHdpdGgga2V5d29yZHMgd2hlcmUga2V5PWtleXdvcmQgdmFsdWU9JWtleXdvcmQlCiAgICBrZXl3b3JkcyA9IGRpY3QoemlwKGtleXdvcmRzLCBrZXl3b3JkX3N0cikpCgogICAgdW5maWx0ZXJlZF9yaWRlcyA9IFtdICAgIyBsaXN0IG9mIHJpZGVzIHRoYXQgbWF0Y2ggYW55IGtleXdvcmQKICAgIHJpZGVfY291bnQgPSB7fSAgICAgICAgICMgZGljdCBmb3IgbnVtYmVyIG9mIG9jY3VyYW5jZXMgb2YgcmlkZXMgCiAgICBmaWx0ZXJlZF9yaWRlcyA9IFtdICAgICAjIGxpc3Qgb2YgcmlkZXMgdGhhdCBtYXRjaCBhbGwga2V5d29yZHMKICAgIAogICAgIyBHZXQgcmlkZXMgdGhhdCBtYXRjaCBhbnkga2V5d29yZCBhbmQgcHV0IHRoZW0gaW4gYSBsaXN0CiAgICBmb3Iga2V5LCBrZXlfc3RyIGluIGtleXdvcmRzLml0ZW1zKCk6CiAgICAgICAgY3Vyc29yLmV4ZWN1dGUoc2VhcmNoLCB7J2tleSc6a2V5LCAna2V5c3RyJzprZXlfc3RyfSkKICAgICAgICBbdW5maWx0ZXJlZF9yaWRlcy5hcHBlbmQocmlkZSkgZm9yIHJpZGUgaW4gY3Vyc29yLmZldGNoYWxsKCldCgogICAgIyBDb3VudCBudW1iZXIgb2YgdGltZXMgZWFjaCByaWRlIG9jY3VycyBpbiBsaXN0CiAgICBmb3IgcmlkZSBpbiB1bmZpbHRlcmVkX3JpZGVzOgogICAgICAgIGlmIHJpZGUgbm90IGluIHJpZGVfY291bnQ6CiAgICAgICAgICAgIHJpZGVfY291bnRbcmlkZV0gPSAwCiAgICAgICAgcmlkZV9jb3VudFtyaWRlXSArPSAxCiAgICAKICAgICMgSWYgcmlkZSBvY2N1cnMgc2FtZSBhbW91bnQgYXMgbnVtYmVyIG9mIGtleXdvcmRzIHRoZW4gYWRkIGl0IHRvIHRoZSByaWRlcwogICAgIyB0byBiZSBkaXNwbGF5ZWQKICAgIGZvciByaWRlIGluIHJpZGVfY291bnQua2V5cygpOgogICAgICAgIGlmIHJpZGVfY291bnRbcmlkZV0gPT0gbGVuKGtleXdvcmRzKToKICAgICAgICAgICAgZmlsdGVyZWRfcmlkZXMuYXBwZW5kKHJpZGUpCiAgICBjdXJzb3IgPSBzaG93X3JpZGVzKGN1cnNvciwgZmlsdGVyZWRfcmlkZXMsIHVzZXIpCiAgICByZXR1cm4gY3Vyc29yCgoKZGVmIHNob3dfcmlkZXMoY3Vyc29yLCByaWRlX2xpc3QsIHVzZXIpOgogICAgIiIiVGFrZXMgYSBsaXN0IG9mIHJpZGVzIGFuZCBuaWNlbHkgZGlzcGxheXMgdGhlbiB0byB0aGUgdXNlci4iIiIKCiAgICBsZW5fcmlkZXMgPSBsZW4ocmlkZV9saXN0KQogICAgY21kID0gTm9uZQogICAgIyBpZiBsZXNzIHRoYW4gNSByaWRlcyBwcmludCB0aGVtCiAgICBpZiBsZW5fcmlkZXMgPD0gNToKICAgICAgICBwcmludCgiRm91bmQge30gcmlkZShzKSIuZm9ybWF0KGxlbl9yaWRlcykpCiAgICAgICAgcHJpbnRfcmlkZSgoJ3JubycsICdwcmljZScsICdyZGF0ZScsICdzZWF0cycsICdsdWdEZXNjJywgJ3NyYycsICdkc3QnLAogICAgICAgICAgICAgICAgICAgICdkcml2ZXInLCAnY25vJywgJ21ha2UnLCAnbW9kZWwnLCAneWVhcicsICdzZWF0cycsCiAgICAgICAgICAgICAgICAgICAgJ293bmVyJykpCiAgICAgICAgcHJpbnQoIi0iICogNzkpCiAgICAgICAgZm9yIHJpZGUgaW4gcmlkZV9saXN0OgogICAgICAgICAgICBwcmludF9yaWRlKHJpZGUpCiAgICAjIG90aGVyd2lzZSBkbyA1IGF0IGEgdGltZQogICAgZWxzZToKICAgICAgICBwcmludCgiRm91bmQge30gcmlkZXMuIERpc3BsYXlpbmcgNSIuZm9ybWF0KGxlbl9yaWRlcykpCiAgICAgICAgcHJpbnRfcmlkZSgoJ3JubycsICdwcmljZScsICdyZGF0ZScsICdzZWF0cycsICdsdWdEZXNjJywgJ3NyYycsICdkc3QnLAogICAgICAgICAgICAgICAgICAgICdkcml2ZXInLCAnY25vJywgJ21ha2UnLCAnbW9kZWwnLCAneWVhcicsICdzZWF0cycsCiAgICAgICAgICAgICAgICAgICAgJ293bmVyJykpCiAgICAgICAgcHJpbnQoIi0iICogNzkpCiAgICAgICAgZW50cnkgPSAwCiAgICAgICAgd2hpbGUgZW50cnkgPCBsZW5fcmlkZXM6CiAgICAgICAgICAgIHByaW50X3JpZGUocmlkZV9saXN0W2VudHJ5XSkKICAgICAgICAgICAgaWYgKGVudHJ5ICsgMSkgJSA1ID09IDA6CiAgICAgICAgICAgICAgICAjIGFzayBmb3IgYSBjb21tYW5kIGV2ZXJ5IDUgcmlkZXMKICAgICAgICAgICAgICAgIHdoaWxlIGNtZCBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgIHByaW50KCItIiAqIDc5KQogICAgICAgICAgICAgICAgICAgIGNtZCA9IGlucHV0KCJZb3UgY2FuOiBzZWUgNSBtb3JlIChuZXh0KS9hc2sgZm9yIGEgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImJvb2tpbmcgKGJvb2spL2dvIGJhY2sgdG8gdGhlIG1lbnUgKGV4aXQpXG4+ICIpCiAgICAgICAgICAgICAgICAgICAgaWYgY21kID09ICduZXh0JzoKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRfcmlkZSgoJ3JubycsICdwcmljZScsICdyZGF0ZScsICdzZWF0cycsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbHVnRGVzYycsICdzcmMnLCAnZHN0JywgJ2RyaXZlcicsICdjbm8nLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21ha2UnLCAnbW9kZWwnLCAneWVhcicsICdzZWF0cycsICdvd25lcicpKQogICAgICAgICAgICAgICAgICAgICAgICBwcmludCgiLSIgKiA3OSkKICAgICAgICAgICAgICAgICAgICAgICAgY21kID0gTm9uZQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgIGVsaWYgY21kID09ICdib29rJzoKICAgICAgICAgICAgICAgICAgICAgICAgYm9va19ycShjdXJzb3IsIHVzZXIsIHJpZGVfbGlzdCkKICAgICAgICAgICAgICAgICAgICAgICAgY21kID0gTm9uZQogICAgICAgICAgICAgICAgICAgIGVsaWYgY21kID09ICdleGl0JzoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGN1cnNvcgogICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgIGNtZCA9IE5vbmUKICAgICAgICAgICAgZW50cnkgKz0gMQogICAgIyBpZiBhbGwgcmlkZXMgYXJlIHByaW50ZWQKICAgIHdoaWxlIGNtZCBpcyBOb25lOgogICAgICAgIHByaW50KCItIiAqIDc5KQogICAgICAgIGNtZCA9IGlucHV0KCJZb3UgY2FuOiBhc2sgZm9yIGEgYm9va2luZyAoYm9vaykvZ28gYmFjayB0byB0aGUiICsgCiAgICAgICAgICAgICAgICAgICAgIiBtZW51IChleGl0KVxuPiAiKQogICAgICAgIGlmIGNtZCA9PSAnYm9vayc6CiAgICAgICAgICAgIGJvb2tfcnEoY3Vyc29yLCB1c2VyLCByaWRlX2xpc3QpCiAgICAgICAgICAgIGNtZCA9IE5vbmUKICAgICAgICBlbGlmIGNtZCA9PSAnZXhpdCc6CiAgICAgICAgICAgIHJldHVybiBjdXJzb3IKICAgICAgICBlbHNlOgogICAgICAgICAgICBjbWQgPSBOb25lCgoKZGVmIHByaW50X3JpZGUocmlkZSk6CiAgICAiIiJGb3JtYXQgYW5kIHByaW50IGEgcmlkZS4iIiIKICAgICMgcm5vfHByaWNlfHJkYXRlfHNlYXRzfGx1Z0Rlc2N8c3JjfGRzdHxkcml2ZXJ8Y25vfG1ha2V8bW9kZWx8eWVhcnxzZWF0c3wKICAgICMgb3duZXIKICAgIHJpZGVfc3RyID0gJycKICAgIGZvciBhdHQgaW4gcmlkZToKICAgICAgICBpZiBhdHQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJpZGVfc3RyID0gcmlkZV9zdHIgKyAifCIgKyBzdHIoYXR0KQogICAgcHJpbnQocmlkZV9zdHIp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">MQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLGZuYW1lPU5vbmUsZGF0YT1bXSxpbW9iaj1Ob25lLGhlaWdodD0wLHdpZHRoPTApOgogICAgICAgICIiIgogICAgICAgIEFuIGltYWdlIGNhbiBiZSBjcmVhdGVkIHVzaW5nIGFueSBvZiB0aGUgZm9sbG93aW5nIGtleXdvcmQgcGFyYW1ldGVycy4gV2hlbiBpbWFnZSBjcmVhdGlvbiBpcwogICAgICAgIGNvbXBsZXRlIHRoZSBpbWFnZSB3aWxsIGJlIGFuIHJnYiBpbWFnZS4KICAgICAgICBmbmFtZTogIEEgZmlsZW5hbWUgY29udGFpbmluZyBhbiBpbWFnZS4gIENhbiBiZSBqcGcsIGdpZiwgYW5kIG90aGVycwogICAgICAgIGRhdGE6ICBhIGxpc3Qgb2YgbGlzdHMgcmVwcmVzZW50aW5nIHRoZSBpbWFnZS4gIFRoaXMgbWlnaHQgYmUgc29tZXRoaW5nIHlvdSBjb25zdHJ1Y3QgYnkKICAgICAgICByZWFkaW5nIGFuIGFzaWkgZm9ybWF0IHBwbSBmaWxlLCBvciBhbiBhc2NpaSBhcnQgZmlsZSBhbmQgdHJhbnNsYXRlIGludG8gcmdiIHlvdXJzZWxmLgogICAgICAgIGltb2JqOiAgTWFrZSBhIGNvcHkgb2YgYW5vdGhlciBpbWFnZS4KICAgICAgICBoZWlnaHQ6CiAgICAgICAgd2lkdGg6IENyZWF0ZSBhIGJsYW5rIGltYWdlIG9mIGEgcGFydGljdWxhciBoZWlnaHQgYW5kIHdpZHRoLgogICAgICAgICIiIgogICAgICAgIHN1cGVyKEFic3RyYWN0SW1hZ2UsIHNlbGYpLl9faW5pdF9fKCkKCiAgICAgICAgIyBpZiBQSUwgaXMgYXZhaWxhYmxlIHRoZW4gdXNlIHRoZSBQSUwgZnVuY3Rpb25zIG90aGVyd2lzZSBmYWxsIGJhY2sgdG8gVGsKICAgICAgICBpZiBwaWxBdmFpbGFibGU6CiAgICAgICAgICAgIHNlbGYubG9hZEltYWdlID0gc2VsZi5sb2FkUElMSW1hZ2UKICAgICAgICAgICAgc2VsZi5jcmVhdGVCbGFua0ltYWdlID0gc2VsZi5jcmVhdGVCbGFua1BJTEltYWdlCiAgICAgICAgICAgIHNlbGYuc2V0UGl4ZWwgPSBzZWxmLnNldFBJTFBpeGVsCiAgICAgICAgICAgIHNlbGYuZ2V0UGl4ZWwgPSBzZWxmLmdldFBJTFBpeGVsCiAgICAgICAgICAgIHNlbGYuc2F2ZSA9IHNlbGYuc2F2ZVBJTAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYubG9hZEltYWdlID0gc2VsZi5sb2FkVGtJbWFnZQogICAgICAgICAgICBzZWxmLmNyZWF0ZUJsYW5rSW1hZ2UgPSBzZWxmLmNyZWF0ZUJsYW5rVGtJbWFnZQogICAgICAgICAgICBzZWxmLnNldFBpeGVsID0gc2VsZi5zZXRUa1BpeGVsCiAgICAgICAgICAgIHNlbGYuZ2V0UGl4ZWwgPSBzZWxmLmdldFRrUGl4ZWwKICAgICAgICAgICAgc2VsZi5zYXZlID0gc2VsZi5zYXZlVGsKCiAgICAgICAgaWYgZm5hbWU6CiAgICAgICAgICAgIHNlbGYubG9hZEltYWdlKGZuYW1lKQogICAgICAgICAgICBzZWxmLmltRmlsZU5hbWUgPSBmbmFtZQogICAgICAgIGVsaWYgZGF0YToKICAgICAgICAgICAgaGVpZ2h0ID0gbGVuKGRhdGEpCiAgICAgICAgICAgIHdpZHRoID0gbGVuKGRhdGFbMF0pCiAgICAgICAgICAgIHNlbGYuY3JlYXRlQmxhbmtJbWFnZShoZWlnaHQsd2lkdGgpCiAgICAgICAgICAgIGZvciByb3cgIGluIHJhbmdlKGhlaWdodCk6CiAgICAgICAgICAgICAgICBmb3IgY29sIGluIHJhbmdlKHdpZHRoKToKICAgICAgICAgICAgICAgICAgICBzZWxmLnNldFBpeGVsKGNvbCxyb3csUGl4ZWwoZGF0YVtyb3ddW2NvbF0pKQogICAgICAgIGVsaWYgaGVpZ2h0ID4gMCBhbmQgd2lkdGggPiAwOgogICAgICAgICAgICBzZWxmLmNyZWF0ZUJsYW5rSW1hZ2UoaGVpZ2h0LHdpZHRoKQogICAgICAgIGVsaWYgaW1vYmo6CiAgICAgICAgICAgIHNlbGYuaW0gPSBpbW9iai5jb3B5KCkKCiAgICAgICAgaWYgcGlsQXZhaWxhYmxlOgogICAgICAgICAgICBzZWxmLndpZHRoLHNlbGYuaGVpZ2h0ID0gc2VsZi5pbS5zaXplCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi53aWR0aCA9IHNlbGYuaW0ud2lkdGgoKQogICAgICAgICAgICBzZWxmLmhlaWdodCA9IHNlbGYuaW0uaGVpZ2h0KCkKICAgICAgICBzZWxmLmNlbnRlclggPSBzZWxmLndpZHRoLzIrMyAgICAgIyArMyBhY2NvdW50cyBmb3IgdGhlIH4zIHBpeGVsIGJvcmRlciBpbiBUayB3aW5kb3dzCiAgICAgICAgc2VsZi5jZW50ZXJZID0gc2VsZi5oZWlnaHQvMiszCiAgICAgICAgc2VsZi5pZCA9IE5vbmUKCiAgICBkZWYgbG9hZFBJTEltYWdlKHNlbGYsZm5hbWUpOgogICAgICAgIHNlbGYuaW0gPSBQSUxfSW1hZ2Uub3BlbihmbmFtZSkKICAgICAgICBuaSA9IHNlbGYuaW0uY29udmVydCgiUkdCIikKICAgICAgICBzZWxmLmltID0gbmkKCiAgICBkZWYgbG9hZFRrSW1hZ2Uoc2VsZixmbmFtZSk6CiAgICAgICAgc3Vmc3RhcnQgPSBmbmFtZS5yZmluZCgnLicpCiAgICAgICAgaWYgc3Vmc3RhcnQgPCAwOgogICAgICAgICAgICBzdWZmaXggPSAiIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHN1ZmZpeCA9IGZuYW1lW3N1ZnN0YXJ0Ol0KICAgICAgICBpZiBzdWZmaXggbm90IGluIFsnLmdpZicsICcucHBtJ106CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkJhZCBJbWFnZSBUeXBlOiAlcyA6IFdpdGhvdXQgUElMLCBvbmx5IC5naWYgb3IgLnBwbSBmaWxlcyBhcmUgYWxsb3dlZCIgJSBzdWZmaXgpCiAgICAgICAgc2VsZi5pbSA9IHRraW50ZXIuUGhvdG9JbWFnZShmaWxlPWZuYW1lKQoKICAgIGRlZiBjcmVhdGVCbGFua1BJTEltYWdlKHNlbGYsaGVpZ2h0LHdpZHRoKToKICAgICAgICBzZWxmLmltID0gUElMX0ltYWdlLm5ldygiUkdCIiwod2lkdGgsaGVpZ2h0KSkKICAgICAgICBuaSA9IHNlbGYuaW0uY29udmVydCgiUkdCIikKICAgICAgICBzZWxmLmltID0gbmkKCiAgICBkZWYgY3JlYXRlQmxhbmtUa0ltYWdlKHNlbGYsaGVpZ2h0LHdpZHRoKToKICAgICAgICBzZWxmLmltID0gdGtpbnRlci5QaG90b0ltYWdlKGhlaWdodD1oZWlnaHQsd2lkdGg9d2lkdGgpCgoKICAgIGRlZiBjb3B5KHNlbGYpOgogICAgICAgICIiIlJldHVybiBhIGNvcHkgb2YgdGhpcyBpbWFnZSIiIgogICAgICAgIG5ld0kgPSBBYnN0cmFjdEltYWdlKGltb2JqPXNlbGYuaW0pCiAgICAgICAgcmV0dXJuIG5ld0kKCgogICAgZGVmIGNsb25lKHNlbGYpOgogICAgICAgICAiIiJSZXR1cm4gYSBjb3B5IG9mIHRoaXMgaW1hZ2UiIiIKICAgICAgICAgbmV3SSA9IEFic3RyYWN0SW1hZ2UoaW1vYmo9c2VsZi5pbSkKICAgICAgICAgcmV0dXJuIG5ld0kKCiAgICBkZWYgZ2V0SGVpZ2h0KHNlbGYpOgogICAgICAgICIiIlJldHVybiB0aGUgaGVpZ2h0IG9mIHRoZSBpbWFnZSIiIgogICAgICAgIHJldHVybiBzZWxmLmhlaWdodAoKICAgIGRlZiBnZXRXaWR0aChzZWxmKToKICAgICAgICAiIiJSZXR1cm4gdGhlIHdpZHRoIG9mIHRoZSBpYW1nZSIiIgogICAgICAgIHJldHVybiBzZWxmLndpZHRo</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZF9jb2xvcjogWzAsIDAsIDEsIDFdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IFswLCAxLCAxLCAxXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF93aWRnZXQoTGFiZWwodGV4dD10ZXh0KSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF93aWRnZXQoQ2hlY2tCb3goKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PEFjdGlvbj46Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz53IG9mZmVyX3JpZGUucHk=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>setTkPixel</last-search>
+      <last-offset />
+      <last-pattern>setTkPixel</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>-</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxiaXJ0aGRheVw+</entry>
+        <entry>-</entry>
+        <entry>print</entry>
+        <entry>print_mat</entry>
+        <entry encoding="base64">XDxhbGxfbWF0Y2hlc1w+</entry>
+        <entry encoding="base64">XDxQb25nR2FtZVw+</entry>
+        <entry>log_level</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxUb2RvTGlzdFw+</entry>
+        <entry encoding="base64">XDxwYXNzXD4=</entry>
+        <entry>tk.call</entry>
+        <entry>tk</entry>
+        <entry>_tkinter.Tcl</entry>
+        <entry>TclError</entry>
+        <entry>getH</entry>
+        <entry encoding="base64">XDwxXD4=</entry>
+        <entry>assign</entry>
+        <entry>setPixel</entry>
+        <entry>setTkPixel</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>s/-/ /g</entry>
+        <entry encoding="base64">JzwsJz53cQ==</entry>
+        <entry>w ride_search.py</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53IG9mZmVyX3JpZGUucHk=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

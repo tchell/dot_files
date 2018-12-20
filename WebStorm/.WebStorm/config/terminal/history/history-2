@@ -1,0 +1,2000 @@
+sudo apt-cache search berkelely
+vim Populate_bdb.py 
+exit
+ranger
+pip3 install bsddb3
+sudo apt-cache search bsddb3
+sudo apt install python3-bsddb3
+python3
+python3 Populate_bdb.py 
+vim Populate_bdb.py 
+vim Iterate_All.py 
+ls
+vim Range_Search.py 
+ssh tchell@ohaton.cs.ualberta.ca
+cd Desktop/cmput-291/mini-project-1/
+ls
+main.py data.sql 
+python3 main.py 
+vim main.py 
+main
+./mai
+./main.py
+ls -l
+chmod u+x main.py 
+./main.py 
+python3 main.py
+main.py
+main
+git status
+sudo apt update
+sudo apt upgrade
+python
+python3
+exit
+python3 --version
+exit
+unzip Lab\ 07-20181031.zip -d 07
+ls
+rm Lab\ 07-20181031.zip 
+exit
+sudo shutdown now
+sudo apt update
+apt list --upgradable 
+sudo apt upgrade
+cd Desktop/cmput-291/mini-project-1/
+ls
+git status
+git diff
+git pull
+vim main.py 
+git status
+git diff
+git pull
+git checkout -- main.py
+git pull
+vim main.py 
+exit
+vim commands.py 
+python3 main.py
+rm rides.db 
+python3 main.py
+vim commands.py 
+git diff master 
+vim commands.py 
+git diff master 
+git checkout ride-search 
+git diff master 
+git merge master
+vim commands.py 
+vim main.py 
+vim commands.py m
+ls
+vim main.py 
+git status
+git add commands.py main.py 
+git commit
+git push origin ride-search 
+git branch
+git pull --all
+git branch
+git pull origin/ride_request ride_request
+git pull origin ride_request
+git status
+git merge --abort
+git checkout -b ride_request
+git pull origin ride_request 
+git diff
+git merge --abort
+git checkout master
+cd ~/Desktop/
+vim datecheck.py
+cd cmput-291/mini-project-1/
+git branch
+git checkout ride_request 
+git pull --all
+git branch
+git branch -d srch-dlt-rqs 
+git branch -d ride_request 
+git branch -d ride-search 
+git branch -d offer_rides 
+git branch -d booking-cancelling 
+git branch
+git push origin
+git push origin origin/booking-cancelling 
+git branch
+python3 main.py
+vim commands.py 
+vim main.py 
+git status
+vim main.py 
+vim data.sql 
+cd Desktop/cmput-291/mini-project-1/
+ls
+git pull origin booking-canceling
+git pull origin/booking-canceling
+git pull --all
+git checkout booking-cancelling 
+ls
+python3 main.py 
+vim main.py
+python3 main.py 
+vim tables.sql 
+sqlite3 rides.db 
+python3 main.py
+git status
+git add main.py 
+git commit -m 'comment initial queries'
+git merge master 
+vim main
+vim main.py 
+git diff master
+git merge master
+git push origin booking-cancelling 
+git pull master
+git pull origin master
+git checkout master 
+python3 main.py
+git checkout ride-search 
+python3 main.py
+git branch
+git checkout booking-cancelling 
+git merge master
+gitk
+python3 main.py 
+rm rides.db 
+python3 main.py 
+git checkout master 
+vim commands.py 
+ls -al
+rm .commands.py.swp 
+vim commands.py 
+vim main.py 
+git branch
+git pull origin booking-cancelling 
+git branch booking-cancelling 
+git checkout booking-cancelling 
+git pull
+python3 main.py 
+sqlite3 rides.db 
+python3 main.py 
+sqlite3 rides.db
+python3 main.py 
+ls -al
+python3 main.py
+git status
+git add commands.py main.py
+git commit
+git push origin booking-cancelling 
+python3 main.py
+git add commands.py 
+git commit -m 'remove unneeded rollback'
+git push origin booking-cancelling 
+git checkout master
+git pull origin master 
+python3 main.py
+git branch
+git checkout ride-search 
+git pull master
+git checkout master 
+python3
+python3 main.py
+sqlite3
+python3
+python3 main.py
+git branch
+git checkout -b srch-dlt-rqs
+git pull origin srch-dlt-rqs 
+git merge --abort
+git branch master 
+git checkout master 
+python3 main.py
+python3
+sqlite3 rides.db 
+python3 main.py
+rm rides.db 
+python3 main.py
+git checkout -b tan-fix
+git add commands.py 
+git status
+git commit commands.py 
+git push origin tan-fix 
+cd Desktop/cmput-291/mini-project-1/
+vim main.py 
+vim commands.py 
+git checkout -b tan-fix
+git checkout tan-fix 
+vim main.py
+python3 main.py
+vim commands.py 
+git diff
+python3 main.py
+vim data.sql
+python3 main.py
+git add
+git status
+git add commands.py main.py list_bookings.py offer_ride.py post_rq.py ride_search.py view_requests.py 
+git commit -m "Split functions into files"
+git checkout master
+git pull
+git branch
+git branch -d tan-fix 
+git checkout -b tan-fix
+python3 main.py
+git add commands.py 
+git commit
+git push
+git push origin tan-fix 
+git checkout master 
+git pull origin master 
+python3 main.py
+git status
+git diff commands.py
+git add commands.py 
+git commit -m 'changed most '=' comparisons to LIKE
+git commit -m "changed most '=' comparisons to LIKE"
+git push origin tan-fix 
+python3 main.py
+git add commands.py 
+git commit
+python3 main.py
+sudo shutdown now
+sudo apt update
+sudo apt upgrade
+sudo reboot now
+python3 main.py 
+rm test.db
+python3 main.py -b test.db
+vim README.txt
+git stat
+git status
+git add README.txt 
+git commit -m 'Add README.txt'
+git push origin master
+cd Desktop/cmput-291/mini-project-1/
+python3 main.py
+vim tables.sql 
+sudo journalctl | grep "PM: suspend" | tail -2
+cat /sys/power/mem_sleep
+sudo echo deep > /sys/power/mem_sleep
+su
+sudo echo deep > sudo /sys/power/mem_sleep
+sudo journalctl | grep "PM: suspend" | tail -2
+sudo vim /sys/power/mem_sleep
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo reboot now
+cd Desktop/cmput-291/mini-project-1/
+ls
+git status
+python3 main.py
+git add commands.py 
+git commit
+git push origin tan-fix 
+git checkout master
+git pull
+vim main.py 
+git checkout tan-fix 
+git status
+git add main.py 
+git commit
+git push
+git push origin tan-fix 
+git checkout master
+git pull
+vim main.py 
+vim commands.py 
+sudo journalctl | grep "PM: suspend" | tail -2
+python3 q2.py 
+python3 question_2.py 
+cd Desktop/cmput-291/lab07/
+ls
+vim q2.sql 
+sqlite3 q2.db < q2.sql
+vim q2.py
+mv q2.py question_1.py
+vim question_2.py
+vim q2.sql 
+python3 q2.py
+vim q2-edit.sql 
+mv question_1.py q1.py
+mv question_2.py q2.py
+python3 main.py 
+git status
+git add commands.py
+git commit
+git push origin tan-fix 
+git checkout master
+git pull origin master 
+python3 main.py 
+git pull master
+git pull origin master
+python3 main.py 
+git pull origin master
+git pull master
+git pull origin master
+python3 main.py 
+vim commands.py 
+python3 main.py 
+git checkout -- commands.py
+git pull origin master
+python3 main.py 
+git commit
+git commit -help
+git pull origin master
+python3 main.py 
+ls
+tar -zxf main.py commands.py README.txt report.pdf
+tar --help
+tar -cvzf prjcode.tgz main.py commands.py README.txt report.pdf 
+git status
+git add prjcode.tgz 
+git commit -m 'add tarfile'
+git push origin master
+cd Desktop/cmput-291/mini-project-1/
+git branch
+git checkout tan-fix 
+vim commands.py 
+rm .commands.py.swp 
+vim commands.py 
+cd Desktop/cmput-396/
+ls
+vim hex.md 
+ls ~/.vim
+ll ~/.vim
+la ~/.vim
+ls -al ~/.etc/vim/
+ls -al ~/.etc/vim/after/
+vim ~/.vim/after/ftplugin/mkd.vim
+vim ~/.vimrc
+vim ~/.vim/after/ftplugin/mkd.vim
+vim hex.md 
+vim go.md
+ls
+cd 2x2go/
+ls
+vim Solving\ 2x2\ go.html 
+ls
+gcc
+gcc --help
+gcc -Wall 2x2.c 
+ls
+./a.out
+gcc -Wall 2x2.c two_by_two
+gcc -Wall 2x2.c -o two_by_two
+./two_by_two 
+time ./two_by_two 
+ls
+rm Solving\ 2x2\ go.html solving_2x2_go.html
+ls
+rm a.out 
+cd../
+cd ../
+ls
+apt-cache search node
+sudo apt install nodejs
+cd Desktop/
+ls
+vim app.js
+vim ~/.vimrc
+vim ~/.vim/after/ftplugin/python.vim 
+vim ~/.vimrc
+ls ~/.vim/plugged/
+ls material.vim
+ls ~/.vim/plugged/material.vim/
+ls ~/.vim/plugged/vim-colors-solarized/
+ls ~/.vim/plugged/vim-colors-solarized/colors/
+cp ~/.vim/plugged/vim-colors-solarized/colors/ ~/.vim/colors
+cp -r ~/.vim/plugged/vim-colors-solarized/colors/ ~/.vim/colors
+vim app.js
+node app.js 
+vim app.js
+sudo apt-cache search express
+apt-cache search express
+cd Desktop/
+mkdir web/
+cd web/
+ls
+git init
+git remote add pi@192.168.1.83/home/pi/
+git remote add web pi@192.168.1.83/home/pi/
+git status
+ls -al
+vim app.js
+git status
+git add app.js 
+git commit -m "add node test"
+git push
+git push origin master
+git push web 
+git push web master
+git remote add web pi@192.168.1.83/home/pi/web
+git remote
+git remote --help
+git remote remove web
+git remote add web pi@192.168.1.83/home/pi/web
+git push
+git push web
+git push web master
+git push --set-upstream web master
+git clone pi@192.168.1.83/home/pi/web
+git remote add web pi@192.168.1.83:/home/pi/web
+git remote remove web
+git remote add web pi@192.168.1.83:/home/pi/web
+git push web master
+ls
+ls -al
+ls .git
+cd 
+git remote remove web
+git remote add web pi@192.168.1.83:/home/pi/git/web
+cd Desktop/web/
+git remote remove web
+git remote add web pi@192.168.1.83:/home/pi/git/web
+git remote remove web
+git remote add web pi@192.168.1.83:/home/pi/git/web
+git push web master
+ls -al
+git push web master
+rm -rf .git
+git clone pi@192.168.1.83:/home/pi/git/web/
+ls
+mv web/* ./
+ls web/
+ls -al web/
+cd ../
+mv web/app.js ./
+ls
+rm -rf web/
+git clone pi@192.168.1.83:/home/pi/git/web/
+mv app.js web/
+cd web/
+git status
+git add app.js 
+git commit -m "added node test"
+git push origin master 
+git status
+git ls
+ls
+git help
+git rm help
+git rm --help
+git rm --cached app.js 
+ls
+git commit -m "clear"
+ls
+git status
+ls -al
+echo "Hello World!" > index.html
+git add index.html
+git commit --help
+git commit -m "test html"
+git remote
+git remote remove origin 
+git remote add origin ssh://pi@192.168.1.83:home/pi/web.git
+git push origin +master:refs/heads/master
+git remote remove origin 
+git remote add origin pi@192.168.1.83:home/pi/web.git
+git push origin +master:refs/heads/master
+git remote remove origin 
+git remote add origin pi@192.168.1.83:home/pi/git/web.git
+git push origin +master:refs/heads/master
+git remote add origin ssh://pi@192.168.1.83:home/pi/git/web.git
+git remote remove origin 
+git remote add origin ssh://pi@192.168.1.83:home/pi/git/web.git
+git push origin +master:refs/heads/master
+git remote remove origin 
+git remote add origin ssh://192.168.1.83/home/pi/git/web.git
+git push origin +master:refs/heads/master
+vim .git/config 
+vim ~/.gitconfig 
+ssh-add -l
+git push origin +master:refs/heads/master
+git remote remove origin 
+git remote add origin pi@192.168.1.83:/home/pi/git/web.git
+git push origin master
+vim index.html 
+git add index.html 
+git commit -m "edit html"
+git push origin master 
+vim index.html 
+git add index.html 
+git commit -m "add style"
+git push origin master 
+git push origin +master:refs/heads/master 
+ls
+git add app.js 
+vim app.js 
+git commit -m "add node.js test"
+git push
+git push origin master 
+vim app.js 
+ls ~/.vim/autoload/
+ls
+vim app.js 
+vim datecheck.py 
+vim app.js 
+node app.js
+vim app.js 
+node app.js
+ssh pi@192.168.1.69
+ssh pi@192.168.1.68
+ssh pi@192.168.1.83
+cd /mnt/
+ls
+cd /
+ls
+cd media/
+ls
+cd tan/
+ls
+cd boot/
+touch ssh
+cd
+ssh pi@192.168.1.83
+ssh-keygen -f .ssh/known_hosts -R 192.168.1.83
+ssh pi@192.168.1.83
+cat ~/.ssh/id_rsa.pub | ssh demo@198.51.100.0 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+cat ~/.ssh/id_rsa.pub | ssh pi@192.168.1.83 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+ssh pi@192.168.1.83
+cat ~/.ssh/id_rsa.pub | ssh pi@192.168.1.83 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+ssh pi@192.168.1.83
+vim .vim/after/ftplugin/html.vim
+ls
+ls node_modules/
+ls node_modules/jquery/
+ls node_modules/jquery/dist/
+cp --help
+mkdir static
+ls
+mkdir static/jquery
+vim static/jquery/jquery.js 
+ls node_modules/react/
+ls node_modules/react/cjs/
+vim node_modules/react/cjs/react.development.js 
+ls node_modules/react/umd/
+ls
+cd
+ls -al
+vim .vimrc 
+vim .vim/after/ftplugin/python.vim 
+cat .vim/after/ftplugin/html.vim 
+cat .vim/after/ftplugin/mkd.vim 
+vim .vim/after/ftplugin/python.vim 
+vim .vim/after/ftplugin/mkd.vim 
+cd Desktop/web/
+ls
+node app.js
+vim app.js
+node app.js
+ls
+ls -al
+node --help
+npm --help
+npm help npm
+npm hel 5
+npm help 5
+npm help 5 package.json
+npm help
+npm init -h
+npm help init
+npm init
+ls
+vim package.json 
+npm help
+npm help init
+rm package.json 
+npm init create-react-app
+npm help init
+npm init react-app
+npm init react-app ./
+ls
+vim package.json
+npm init
+ls
+npm help
+npm update -h
+npm help config
+npm run
+npm update
+ls
+mv app.js server.js
+npm run
+npm start
+vim server.js 
+npm start
+vim server.js 
+npm start
+vim server.js 
+git status
+rm node-test.js 
+vim server.js 
+vim client.js
+vim server.js 
+ls
+mkdir public
+ls
+mv client.js public/
+vim server.js 
+vim public/style.css
+vim server.js 
+mv --help
+mkdir views
+mv index.html views/
+vim server.js 
+vim public/style.css 
+vim server.js 
+ls
+rm -rf static/
+npm install react
+ls
+vim package
+vim package.json 
+npm uninstall jsdom
+vim server.js 
+vim views/index.html 
+git status
+git add app.js index.html node_modules/ package* public/ server.js views/
+git commit -m "working node server"
+git push origin master 
+vim views/index.html 
+vim public/client.js 
+vim views/index.html 
+vim package
+vim package.json 
+ls 
+ls public/
+vim server.js 
+vim views/index.html 
+ls node_modules/
+ls node_modules/react/
+ls node_modules/react/cjs/
+ls node_modules/react/umd/
+vim public/client.js 
+npm install react-dom
+vim public/client.js 
+vim views/index.html 
+vim server.js 
+vim public/client.js 
+npm install babel
+vim public/client.js 
+vim package.json 
+ls -al
+rm '
+ls
+rm "'"
+ls
+vim package.json 
+npm update
+ls node_modules/
+ls node_modules/babel/
+ls node_modules/babel/lib/
+vim node_modules/babel/README.md 
+npm install --save-dev babel-preset-es2015
+ls -al
+ls node_modules/babel-preset-es2015/
+ls node_modules/babel/
+cd ../
+ls
+cd test/
+ls
+cd test-app/
+ls
+vim package.json 
+ls
+vim src/App.js 
+vim src/index.
+vim src/index.js 
+ls
+vim README.md 
+vim public/index.html 
+vim package-lock.json 
+node --version
+cd Desktop/web/
+ls
+npm start
+npm install test
+npm uninstall test
+npm install jest
+vim package.json 
+npm run test -- --watch
+jest --init
+vim server.test.js
+npm uninstall jest
+npm install --save-dev nodemon
+vim package.json 
+npm test
+npm install jquery
+vim client.js
+npm test
+ls
+ls node_modules/
+ls node_modules/jquery/
+ls node_modules/jquery/src/
+npm test
+npm install jsdom
+ls
+cd 
+cd Desktop/
+ls
+mkdir test
+cd test
+ls
+npm create-react-app test-app
+npm init react-app test-app
+cd test-app/
+ls
+npm start
+vim src/App.js 
+ls
+ls public/
+cat public/index.html 
+vim public/index.html 
+ls
+tree
+vim src/index.
+vim src/index.js 
+ls
+ls public/
+vim README.md 
+vim package.json 
+ls
+ls public/
+vim public/manifest.json 
+vim inde
+vim public/index.html 
+ls src
+vim src/serviceWorker.js 
+ls
+vim src/index.js 
+vim src/App.js 
+ls -al
+ls node_modules/
+
+cd ../
+ls
+cd test-app/
+vim package.json 
+ls
+ls node_modules/
+ls node_modules/react-scripts/
+ls node_modules/react-scripts/scripts/
+vim node_modules/react-scripts/scripts/start.js
+ls node_modules/react-scripts/template
+ls node_modules/react-scripts/template/src/
+cd ../../web/
+ls
+vim package.json 
+npm run build:jquery
+vim package.json 
+npm run build:jquery
+vim package.json 
+npm run build:jquery
+vim package.json 
+npm run build:jquery
+vim package.json 
+npm run build:jquery
+ls
+vim package.json 
+npm test
+ssh pi@192.168.1.83
+npm test
+cd Desktop/biol-430/
+cd labs/
+ls
+unzip Lab\ 08-20181108.zip -d 08
+ssh pi@192.168.1.83
+ls
+vim 14-illustrating_interaction_effects.md
+vim ~/Desktop/cmput-291/mini-project-1/main.py 
+vim 14-illustrating_interaction_effects.md
+vim 15-nested_anova.md
+remarkable 15-nested_anova.md 
+vim 15-nested_anova.md
+remarkable 15-nested_anova.md 
+vim 15-nested_anova.md
+remarkable 15-nested_anova.md 
+vim 15-nested_anova.md
+remarkable 15-nested_anova.md 
+vim 15-nested_anova.md
+vim 16-more_complex_anovas.md
+vim 17-repeated_measures_anova.md
+cd Desktop/biol-430/notes/
+ls
+vim 17-repeated_measures_anova.md 
+vim ~/.vim/after/ftplugin/mkd.vim 
+mv 17-repeated_measures_anova.mkd
+mv 17-repeated_measures_anova.md 17-repeated_measures_anova.mkd
+vim 17-repeated_measures_anova.mkd 
+vim ~/.vim/after/ftplugin/mkd.vim 
+mv 17-repeated_measures_anova.mkd 17-repeated_measures_anova.md
+vim 17-repeated_measures_anova.md 
+vim 18-split_plot_anova.md
+cd Desktop/biol-430/
+ls
+unzip Homework\ 2\ -\ One-Way\ ANOVA-20181112.zip -d homework-2
+ls
+unzip Homework\ 3\ -\ One-way\ ANOVA-20181112.zip -d homework-3
+unzip Homework\ 4\ -\ more\ ANOVA-20181112.zip -d homework-4
+unzip Homework\ 5\ -\ ANOVA\ recap-20181112.zip -d homework-5
+ls
+rm *.zip
+ls
+cd Desktop/biol-430/notes/
+la
+ls
+vim anovas.md
+cd Desktop/biol-430/notes/
+remarkable anovas.md 
+R
+ls
+ls -al
+cd Desktop/biol-430/homework-1/
+ls
+cat answer.R 
+vim script.R
+R script.R 
+R < script.R 
+R --help
+R --no-save < script.R 
+vim script.R
+R --no-save --quiet < script.R 
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R < ?print
+R --no-save --quiet < script.R 
+R
+vim script.R
+R --no-save --quiet < script.R 
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+R --no-save --slave < script.R 
+vim script.R
+ls
+cd ../
+ls
+cd notes/
+ls
+vim anovas.md 
+remarkable anovas.md 
+cd Desktop/cmput-396/
+ls
+vim mcts.md
+sudo service bluetooth restart
+sudo reboot now
+cd Desktop/cmput-291/
+ls
+cd mini-project-
+cd mini-project-2
+ls
+cd ../
+git clone git@github.com:tchell/mini-project-2.git mini-project-2
+git clone --help
+rm mini-project-2/break.pl 
+git clone git@github.com:tchell/mini-project-2.git mini-project-2
+git status
+cd mini-project-
+cd mini-project-2
+ls
+git branch
+git pull bosco4-patch-1
+git checkout bosco4-patch-1 
+git status
+ls
+vim mp_p1.py 
+vim fCmd.py 
+vim mp_p1.py 
+vim fCmd.py 
+vim mp_p1.py
+git status
+ls
+python3 mp_p1.py 
+ls
+cat prices.txt
+ls -l
+diff ads.txt 10-ads.txt 
+diff pdates.txt 10-pdates.txt 
+diff prices.txt 10-prices.txt 
+python3 mp_p1.py 
+ssh tchell@ohaton.cs.ualberta.ca
+cd Desktop/cmput-291/mini-project-2
+ls
+vim fCmd.py 
+vim terms.py
+vim fCmd.py 
+vim mp_p1.py 
+vim fCmd.py 
+ls
+vim 10.txt 
+python3 mp_p1.py 
+vim 10.txt 
+python3 mp_p1.py 
+ll
+rm fCmd_conflict-20181121-202023.py 
+mkdir xml/
+mv 10* xml/
+ls xml/
+ll
+ll xml
+python3 mp_p1.py 
+diff terms.txt xml/10-terms.txt 
+diff ads.txt xml/10-ads.txt 
+cat ads.txt 
+python3 mp_p1.py 
+diff ads.txt xml/10-ads.txt 
+diff terms.txt xml/10-terms.txt 
+diff --help
+diff -y terms.txt xml/10-terms.txt 
+diff -yq terms.txt xml/10-terms.txt 
+diff --help
+diff -yq --left-column terms.txt xml/10-terms.txt 
+diff --left-column terms.txt xml/10-terms.txt 
+diff -yq terms.txt xml/10-terms.txt 
+diff -yd --left-column terms.txt xml/10-terms.txt 
+python3 mp_p1.py 
+diff -yd --left-column terms.txt xml/10-terms.txt 11145
+diff -y terms.txt xml/10-terms.txt 
+diff terms.txt xml/10-terms.txt 
+cat pdates.txt 
+rm terms.txt 
+python3 mp_p1.py 
+diff terms.txt xml/10-terms.txt 
+cat terms.txt 
+python3 mp_p1.py 
+diff terms.txt xml/10-terms.txt 
+git commit
+git add fCmd.py 
+ls
+git diff mp_p1.py
+git commit
+git push origin bosco4-patch-1 
+sudo apt update
+sudo apt upgrade
+sudo shutdown now
+cd Desktop/cmput-291/mini-project-2/
+ls
+ll
+rm prices_conflict-20181121-2*
+rm terms_conflict-20181121-212502.txt 
+ll
+rm __pycache__/fCmd.cpython-36.pyc
+vim notes.md
+cd Desktop/biol-430/labs/
+ls
+unzip Lab\ 09-20181122.zip -d 09
+rm *.zip
+ls
+cd 09
+ls
+cd Desktop/cmput-396/
+ls
+vim mcts.md 
+vim go.md
+cd ../cmput-291/mini-project-2
+ls
+git status
+git checkout -- mp_p1.py
+git pull origin bosco4-patch-1 
+vim mp_p1.py 
+python3 mp_p1.py < records(1000).txt
+ls
+python3 mp_p1.py < xml/10.txt 
+diff terms.txt xml/10-terms.txt 
+cat terms.txt
+vim mp_p1.py 
+cd master
+git checkout master 
+ls
+vim check_diff.sh
+chmod u+x check_diff.sh 
+./check_diff.sh 
+vim check_diff.sh
+./check_diff.sh 
+vim check_diff.sh
+ls
+git checkout bosco4-patch-1 
+ls
+mv mp_p1.py create_data.py
+git status
+git add mp_p1.py 
+git add create_data.py 
+git commit -m "rename mp_p1 to create_data"
+git push origin bosco4-patch-1 
+Dls
+ll
+vim check_diff.sh 
+ls
+ll
+cd master
+git checkout master 
+ls
+mv check_diff.sh create_data.sh
+vim create_data.sh 
+touch create_index.py
+touch query.py
+git status
+mv create_index.py build_index.py 
+git add build_index.py query.py 
+git commit -m "add main files for phase 2 and 3"
+git push origin master
+git checkout -b build-index
+vim build_index.py 
+python3 mp_p1.py < xml/10.txt 
+diff terms.txt xml/10-terms.txt 
+python3 mp_p1.py < xml/10.txt 
+diff terms.txt xml/10-terms.txt 
+python3 mp_p1.py < xml/1k.txt 
+diff terms.txt xml/1k-terms.txt 
+diff ads.txt xml/1k-ads.txt 
+diff pdates.txt xml/1k-pdates.txt 
+diff prices.txt xml/1k-prices.txt 
+diff pdates.txt xml/1k-pdates.txt 
+python3 mp_p1.py < xml/10.txt 
+diff pdates.txt xml/10-pdates.txt 
+python3 mp_p1.py < xml/1k.txt 
+diff pdates.txt xml/1k-pdates.txt 
+diff -y pdates.txt xml/1k-pdates.txt 
+python3 mp_p1.py < xml/1k.txt > output.txt
+vim output.txt 
+python3 mp_p1.py < xml/1k.txt > output.txt
+diff -y pdates.txt xml/1k-pdates.txt 
+python3 mp_p1.py < xml/1k.txt > output.txt
+diff -y pdates.txt xml/1k-pdates.txt 
+diff pdates.txt xml/1k-pdates.txt 
+python3 mp_p1.py < xml/1k.txt > output.txt
+diff pdates.txt xml/1k-pdates.txt 
+diff prices.txt xml/1k-prices.txt 
+vim xml/10-prices.txt 
+diff --help
+diff -w prices.txt xml/1k-prices.txt 
+git diff
+git status
+git add mp_p1.py 
+git commit
+git push origin bosco4-patch-1 
+python3 mp_p1.py < xml/1k.txt > output.txt
+diff ads.txt xml/1k-ads.txt 
+diff prices.txt.txt xml/1k-prices.txt.txt 
+diff prices.txt.txt xml/1k-prices.txt
+diff prices.txt xml/1k-prices.txt
+diff -w prices.txt xml/1k-prices.txt
+diff pdates.txt xml/1k-pdates.txt
+python3 mp_p1.py < xml/1k.txt > output.txt
+diff pdates.txt xml/1k-pdates.txt
+diff terms.txt xml/1k-terms.txt
+python3 mp_p1.py < xml/1k.txt
+diff terms.txt xml/1k-terms.txt
+diff pdates.txt xml/1k-pdates.txt
+diff -w prices.txt xml/1k-prices.txt
+python3 mp_p1.py < xml/1k.txt
+diff -w prices.txt xml/1k-prices.txt
+diff ads.txt xml/1k-ads.txt 
+git status
+git rm fCmd.py 
+python3 mp_p1.py < xml/1k.txt
+diff ads.txt xml/1k-ads.txt 
+diff -w prices.txt xml/1k-prices.txt
+diff pdates.txt xml/1k-pdates.txt
+diff terms.txt xml/1k-terms.txt
+git status
+git add mp_p1.py 
+git commit
+git push origin bosco4-patch-1 
+tree --help
+ls
+tree
+./check_diff.sh 10
+ls
+./check_diff.sh 10
+./check_diff.sh 1k
+./check_diff.sh
+./create_data.sh 
+echo --help
+man echo
+./create_data.sh 
+./create_data.sh 10
+git checkout bosco4-patch-1 
+./create_data.sh 10
+./create_data.sh 1k
+diff -help
+diff --hel
+./create_data.sh 1k
+./create_data.sh 10
+./create_data.sh 1k
+diff -q ads.txt xml/10-ads.txt 
+diff -q --color=auto ads.txt xml/10-ads.txt 
+diff -q --color=always ads.txt xml/10-ads.txt 
+diff  --color=always ads.txt xml/10-ads.txt 
+diff  --color=auto ads.txt xml/10-ads.txt 
+diff [Aads.txt xml/10-ads.txt 
+diff --help
+git checkout master
+sort --help
+python3 build_index.py 
+sort --help
+python3 build_index.py 
+cat prices.txt 
+cat ads.txt 
+sort --help
+python3 build_index.py 
+cat prices.txt 
+sort -u xml/1k-prices.txt 
+cat xml/1k-prices.txt 
+sort --help
+python3 build_index.py 
+./create_data.sh 10
+ls
+git checkout master 
+git status
+git checkout build-index 
+cat ads.txt 
+cat prices.txt 
+cat pdates.txt 
+cat terms.txt 
+cat pdates.txt 
+cat prices.txt 
+cat ads
+cat ads.txt 
+git status
+git add build_index.py 
+git commit -m "added sort for linux machines"
+git push origin build-index 
+git checkout master
+git pull origin master 
+git status
+mv xml/ phase-1/
+ls
+vim create_data.
+vim create_data.py 
+vim create_data.sh 
+git add phase-1/ create_data.sh 
+git status
+git rm records*
+git status
+git commit
+git push origin master 
+git checkout build-index 
+git merge master 
+ls
+./create_data.sh 10
+python3 build_index.py 
+cat ads.txt 
+cat prices.txt 
+cat pdates.txt 
+./create_data.sh 10
+cat pdates.txt 
+python3 build_index.py 
+cat pdates.txt 
+git status
+git diff build-index 
+git add build_index.py 
+git commit -m "fix pdate sorting"
+git push origin build-index 
+ssh tchell@ohaton.cs.ualberta.ca
+cd Desktop/cmput-291/mini-project-2/
+ls
+rm *.idx
+rm *.txt
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh 
+python3 print_idx.py 
+ls
+git status
+vim print_idx.py 
+python3 print_idx.py 
+db_dump pdates.idx 
+cat pdates.txt
+vim build_index.sh 
+vim print_idx.py 
+python3 print_idx.py 
+vim print_idx.py 
+python3 print_idx.py 
+vim print_idx.py 
+python3 print_idx.py 
+cat prices.txt 
+vim phase-1/10-prices.txt 
+ls
+./build_index.sh 
+./create_data.sh 
+./create_data.sh 10
+cat prices.txt 
+./build_index.sh 
+cat prices.txt 
+vim build_index.sh 
+./build_index.sh 
+cat prices.txt 
+./create_data.sh 10
+cat prices.txt 
+./build_index.sh 
+cat prices.txt 
+python3 print_idx.py 
+vim print_idx.py
+python3 print_idx.py 
+ssh tchell@ohaton.cs.ualberta.ca
+ls
+vim build_index.sh 
+ll
+rm diff terms.txt terms_conflict-20181123-091923.txt 
+diff terms.txt terms_conflict-20181123-091923.txt 
+ls
+rm terms_conflict-20181123-090931.txt
+diff prices.txt prices_conflict-20181123-092101.txt 
+rm *_conflict*
+ls
+rm *.idx
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh 
+python3 print_idx.py 
+db_dump -d a pdates.idx
+db_dump -d h pdates.idx
+db_dump -d r pdates.idx
+db_dump -d a pdates.idx
+git status
+git reset *.idx
+git status
+git rm --cached *.idx
+ls
+git status
+git diff create_data.
+git diff create_data.py
+git add build_index.sh create_data.py phase-1/10-prices.txt 
+git commit
+git push origin build-index 
+ssh tchell@ohaton.cs.ualberta.ca
+git checkout master
+git pull origin master 
+vim create_data.py
+./create_data.sh
+ls
+diff create_data_conflict-20181123-100120.sh 
+diff create_data_conflict-20181123-100120.sh create_data.sh
+ls
+./create_data.sh 
+./create_data.sh 10
+ls 10
+ls 1k
+./create_data.sh 10
+diff -y ads.txt 10/ads.txt 
+vim ads.txt 
+ls 10
+cat 10.txt
+cat 10/10.txt
+ls 10
+./create_data.sh 1k
+vim prices.txt 
+ls
+git status
+diff create_data.sh
+git diff create_data.sh
+cp phase-1/10.txt 10/10.txt 
+ls
+./create_data.sh 10
+git rm -- cached phase-1/
+ls
+git rm --cached phase-1/
+git rm -r --cached phase-1/d
+git status
+git add 10/10.txt create_data.sh 
+git commit
+git push origin master
+git checkout build-index 
+rm -r phase-1/
+git checkout build-index 
+ls
+git merge master
+git status
+git rm phase-1/10-prices.txt 
+git status
+git commit
+ls
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh 
+ls
+cd test/
+ls
+cd ../
+sudo chmod u+x test/
+ls test
+chmod --help
+sudo chmod -R u+x test/
+ls test
+./create_data.sh 
+./create_data.sh 10
+ls 10
+ls 1k
+./build_index.sh -c 10
+./build_index.sh
+man test
+test -d 10
+echo test -d 10
+test -d happy
+man test
+test [ -d 10 ]
+test ([ -d 10 ])
+test ( -d 10 )
+man test
+test
+-d 10
+./build_index.sh
+ls test
+chmod u+x test/check_index.sh 
+./build_index.sh
+./build_index.sh -c 10
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh -c 10
+kls
+ls
+./build_index.sh -c 10
+./build_index.sh
+DIFF=false
+echo $DIFF
+test DIFF
+echo $?
+test $DIFF
+echo $?
+DIFF=true
+test $DIFF
+echo $?
+./build_index.sh 
+./build_index.sh -c 10
+./build_index.sh
+./build_index.sh -c
+./build_index.sh -c hello
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh -c 10
+ls 10
+./build_index.sh -c 10
+man diff
+./build_index.sh -c 10
+db_dump -d a ads.idx 
+./build_index.sh -c 10
+ls 10
+./build_index.sh -c 10
+python3 print_idx.py 
+vim print_idx.py P
+python3 print_idx.py < prices
+ls
+vim print_idx.py 
+python3 print_idx.py < prices
+python3 print_idx.py
+cat prices.txt
+rm *.idx
+rm *.txt
+ls
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh -c 10
+cat prices.txt
+rm *.txt *.idx
+./create_data.sh 
+./create_data.sh 10
+cat prices.txt 
+sort prices.txt
+sort -u prices.txt
+sort -un prices.txt
+sort -nu prices.txt
+sort -n prices.txt
+sort -n prices.txt | sort -u
+cat 10/prices.txt 
+rm *.txt
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh -c 10
+rm *.idx
+./build_index.sh -c 10
+./create_data.sh 
+./create_data.sh 10
+./build_index.sh -c 10
+ls 10
+rm *.idx
+./build_index.sh -c 10
+git status
+git diff build-index.sh
+git diff build-index
+git add create_data.sh 
+git add build_index.sh 
+git status
+git add test/
+git commit
+git push origin build-index 
+cd Desktop/cmput-291/mini-project-2
+ls
+checkout ads-hash
+git checkout -b ads-hash
+git checkout build-index 
+vim build_index.py 
+ls
+vim test_connection.py
+vim build_index.py 
+vim build_index.sh
+mv test_connection.py print_idx.py
+ls
+db_dump -p ads.idx 
+db_dump -p prices.idx 
+vim create_data.py 
+vim create_data.sh
+vim create_data_conflict-20181123-100120.sh 
+mv create_data_conflict-20181123-100120.sh create_data.sh
+vim create_data.sh
+ls
+vim create_data.
+ls
+vim create_data.s
+vim create_data.sh
+mkdir test/
+cd test/
+vim check_data.sh
+vim check_index.sh
+vim check_data.sh 
+ls
+cd ../
+vim build_index.sh 
+ls
+man db_load
+ssh tchell@ohaton.cs.ualberta.ca
+cd Downloads
+cd ~/Downloads/
+ls
+wget http://download.oracle.com/otn/berkeley-db/db-18.1.25.tar.gz
+apt-cache search berkeleydb
+apt-cache search berkeley
+apt-cache search db_load
+tar -xvzf db-18.1.25.tar.gz 
+cd db-18.1.25/
+cd build_unix/
+../dist/configure --prefix=/usr/local/berkeleydb --enable-compat185 --enable-
+cxx --enable-debug_rop --enable-debug_wop --enable-rpc
+cpp --enable-debug_rop --enable-debug_wop --enable-rpc
+make
+sudo make install
+db_laod
+db_load
+sudo apt install db-util 
+db_load
+man db_load
+ls
+cd ~/Desktop/cmput-291/mini-project-2
+ls
+sudo chmod u+x break.pl 
+./create_data.sh 10
+./break.pl < terms.txt
+./break.pl < ads.txt
+ssh tchell@ohaton.cs.ualberta.ca
+ls
+./create_data.sh 
+./create_data.sh 10
+python3
+cat prices.txt 
+./break.pl < ads.txt | db_load -t hash -f ads.idx
+./break.pl < ads.txt | db_load -t hash ads.idx
+./break.pl < ads.txt
+1304786670
+<ad><aid>1304786670</aid><date>2018/11/07</date><loc>Calgary</loc><cat>camera-camcorder-lens</cat><ti>Nikon 500 mm F4 VR</ti><desc>I have owned this Nikon lens for about 2 years and purchased it new in Calgary. The lens is extremely sharp, and fast focusing. It is a wildlife or bird photographers dream lens. I am selling it</desc><price>8500</price></ad>
+db_load -t hash ads.idx < 1304786670
+<ad><aid>1304786670</aid><date>2018/11/07</date><loc>Calgary</loc><cat>camera-camcorder-lens</cat><ti>Nikon 500 mm F4 VR</ti><desc>I have owned this Nikon lens for about 2 years and purchased it new in Calgary. The lens is extremely sharp, and fast focusing. It is a wildlife or bird photographers dream lens. I am selling it</desc><price>8500</price></ad>
+./break.pl < ads.txt > test-ads.txt
+db_load -T test-ads.txt -t hash ads.idx 
+db_load -T -f test-ads.txt -t hash ads.idx 
+ls
+cat ads.idx
+python3
+ls
+rm ads.idx test-ads.txt 
+ls
+chmod build_index.sh
+chmod u+x build_index.sh
+./build_index.sh 
+ls
+cat ads-test 
+python3 test_connection.py 
+./build_index.sh 
+ls
+rm build_index_conflict-20181122-183410.sh 
+sudo chmod u+x build_index.sh
+./build_index.sh 
+python3 test_connection.py terms
+python3 test_connection.py
+ll
+./create_data.sh 
+./create_data.sh 1k
+./build-index
+./build-index.sh
+ls
+./build_index.sh
+python3 test_connection.py
+ls
+git status
+git add build_index.sh break.pl 
+ls
+git status
+git add print_idx.py 
+git status
+rm *conflict*
+git status
+git add *.idx
+git status
+git rm build_index.py 
+git rm -f build_index.py
+git status
+git commit
+git status
+git reset print_idx.py
+git status
+git commit -f commit.msg 
+git commit -F commit.msg 
+git push origin master 
+git push origin build-index 
+rm commit.msg 
+ls
+ll
+rm ads-test 
+rm output.txt 
+rm temp 
+ll
+ssh tchell@ohaton.cs.ualberta.ca
+db_dump
+db_dump -d a students.db 
+db_dump -d a data.db 
+sudo bluetooth service restart
+bluetooth
+bluetooth --help
+python3 query.py < test/dates.txt 
+git commit --help
+git status
+git add query.py 
+git commit -m "test named tuple"
+git checkout master
+python3 query.py < test/dates.txt 
+git add search.py 
+git commit -m "fix price_inter"
+git push origin master 
+git checkout query-3.0 
+git merge master
+python3 query.py < test/dates.txt 
+python3 query.py < test/loc.txt 
+python3 query.py < test/dates.txt 
+cat pdates.txt
+python3 query.py < test/all.txt 
+python3 scripts/print_idx.py 
+scripts/create_data.sh 1k
+./build_index.sh 
+time python3 query.py < test/all.txt 
+git status
+git diff search.py
+git status
+git add query.py search.py test/
+git commit
+git push origin query-3.0 
+python3 scripts/print_idx.py 
+ls
+git status
+git diff 
+git checkout -b termQuery
+time python3 query.py < test/terms.txt 
+python3 scripts/print_idx.py 
+time python3 query.py < test/terms.txt 
+git branch
+python3
+time python3 query.py < test/terms.txt 
+python3 scripts/print_idx.py 
+time python3 query.py < test/terms.txt 
+time python3 query.py < test/all.txt 
+git status
+git add query.py search.py test/all.txt test/terms.txt 
+git commit
+ls
+git push origin termQuery 
+time python3 query.py < test/all.txt 
+git checkout query-3.0 
+git add search.py 
+git status
+git add test/all.txt 
+git commit -m "fix gt_search return\n\n  #21"
+git push origin termQuery 
+git checkout query-3.0 
+git status
+git pull
+git pull --all
+git pull origin query-3.0 
+time python3 query.py < test/all.txt 
+ssh tchell@ohaton.cs.ualberta.ca
+cd Desktop/cmput-291/mini-project-2/
+ls
+git branch
+git pull --all
+git branch -d cat_query date_query price 
+git branch
+git checkout -b query-3.0
+vim query.py 
+git status
+git diff
+git checkout -- search.py
+git checkout master 
+git pull origin master 
+vim query.py 
+git checkout query-3.0 
+vim query.py 
+tail --help
+head --help
+git status
+git pull
+git branch --set-upstream-to=origin/query-3.0 query-3.0 
+git pull
+git checkout origin master 
+git checkout master 
+git pull
+git checkout -b optimize
+git merge query-3.0
+python3 query.py < test/all.txt 
+vim query
+vim query.py
+vim create_data.py 
+git branch
+git checkout master 
+git pull
+git branch
+git branch -d termQuery optimize 
+git branch -d termQuery query-3.0  
+git branch -d termQuery optimize 
+git branch
+git checkout optimize 
+git diff master
+git diff master optimize 
+vim search
+vim query.py
+vim test/all.txt 
+python3 query.py < test/all.txt 
+vim search.py 
+git status
+vim query.py 
+git checkout master
+git add query.py 
+git commit -m "fix term_match call to use lower()"
+git push origin master
+git status
+git checkout optimize 
+vim search.py 
+ls
+vim test/terms.txt 
+python3 query.py < test/terms.txt 
+scripts/create_data.sh 1k
+./build_index.sh 
+python3 query.py < test/terms.txt 
+vim terms.txt 
+vim search.py 
+python3 query.py < test/terms.txt 
+vim search.py 
+python3 query.py < test/terms.txt 
+vim search.py 
+python3 query.py < test/terms.txt 
+vim search.py 
+vim create_data.py 
+git checkout master
+git pull origin master 
+git checkout optimize 
+git pull origin optimize 
+git merge master 
+git status
+vim search.py 
+git add search.py 
+git commit
+git push origin optimize 
+git checkout master 
+git push origin master 
+git checkout date_range 
+git diff master
+git checkout master 
+scripts/create_data.sh 20k
+ls
+scripts/create_data.sh 1k
+./build_index.sh 
+vim query.py 
+git status
+git checkout -- test/terms.txt
+git pull origin master
+vim query.py 
+python3 query.py < test/all.txt 
+:q
+vim query.py 
+git status
+git diff
+git checkout optimize 
+git checkout -- query.py
+git sta
+git status 
+git checkout -- scripts/print_idx.py
+vim README.txt
+git add README.txt 
+git commit -m "add README.txt"
+git push origin master 
+ls
+vim query.py
+vim search.py 
+git status
+git diff
+git add search.py query.py 
+git commit -m "add comments, doc strings"
+git push origin master
+vim search.py 
+git branch
+git checkout optimize
+git diff master
+git pull origin optimize 
+vim query.py 
+vim search.py 
+git status
+git stash --help
+git add test/all.txt 
+git commit -m "add test"
+git push origin optimize 
+git checkout date_range 
+ls
+git status
+vim search.py 
+git stash
+git checkout master
+git status
+git add report.pdf 
+tar --help
+tar -czfv prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+tar -cfv prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+touch prj2.tgz
+tar -czfv prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+ls
+cp prj2.tgz ~/Desktop/
+cd ../
+ls
+tar -xzvf prj2.tgz
+ls -al
+cd cmput-291/mini-project-
+cd cmput-291/mini-project-2
+tar -czfv prj2.tar.gz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+tar -cvzf prj2.tar.gz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+tar -cvzf prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+git status
+git add prj2.tgz 
+git commit -m "add tarball"
+git push origin master
+git pull
+rm prj2.t
+rm prj2.t*
+tar -cvzf prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+git status
+git add prj2.tgz 
+git commit -m "correct query file added"
+git push origin master
+git diff 9d0088b
+git diff 345b90a
+git diff ddcbebd
+git diff 86b051b
+git checkout date_range 
+git stash --help
+git stash list
+git stash pop
+vim search.py 
+git commit search.py 
+python3 query.py < test/terms.txt 
+git status
+git diff
+python3 query.py < test/all.txt 
+vim test/all.txt 
+time python3 query.py < test/all.txt 
+vim terms.txt 
+vim ads.txt 
+time python3 query.py < test/terms
+time python3 query.py < test/terms.txt 
+vim ads.txt 
+time python3 query.py < test/terms.txt 
+git status
+git diff
+git add search.py query.py 
+git commit -m "add range search"
+git push origin optimize 
+python3 --version
+git status
+git diff search.py
+git add search.py 
+git commit -m "switch to using groups()"
+git push origin oop
+git push origin optimize 
+time python3 query.py < test/dates.txt 
+python3 create_data.py < 10/10.txt 
+./build_index.sh 
+time python3 query.py < test/dates.txt 
+python3
+ls
+git status
+git diff
+git checkout -b date_range
+git add query.py search.py test/
+git commit -m "calculate some min and max"
+git push origin date_range 
+vim test/terms.txt 
+vim ads.txt 
+vim test/terms.txt 
+time python3 query.py < test/terms.txt 
+vim search.py 
+time python3 query.py < test/terms.txt 
+vim search.py 
+vim test/terms.txt 
+time python3 query.py < test/terms.txt 
+time python3 query.py < test/terms.txt > out
+vim out
+time python3 query.py < test/terms.txt > out
+time python3 query.py < test/terms.txt 
+git status
+git diff search.py
+git commit -m "fix multiple matches"
+git add query.py search.py 
+git commit -m "fix multiple matches"
+git push origin master 
+python3
+time python3 query.py < test/terms.txt 
+time python3 query.py < test/all.txt 
+git diff
+git status
+git add query.py search.py 
+git commit -m "add small print change, fix file loading"
+git push origin master
+git status
+git diff query.py
+tree
+sudo chmod -r u+x build_index.sh scripts/
+sudo chmod -r -u+x build_index.sh scripts/
+tree
+sudo chmod -r u+x build_index.sh scripts/
+chmod --help
+ls -al
+sudo chmod -r u+rwx build_index.sh scripts/
+sudo chmod u+rwx build_index.sh scripts/
+tree
+chmod --help
+sudo chmod -R u+x build_index.sh scripts/
+tree
+time python3 query.py < test/all.txt 
+vim test/all.txt 
+time python3 query.py < test/all.txt 
+vim test/all.txt 
+time python3 query.py < test/all.txt 
+vim test/all.txt 
+git status
+git add query.py 
+git commit
+git push origin optimize 
+git diff
+tree
+git checkout master 
+git rm report.pdf 
+git checkout master 
+rm report.pdf 
+git checkout master 
+git add report.pdf 
+tar -cvzf prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh search.py README.txt
+git add prj2.tgz 
+git status
+git commit -m "fixed report.pdf"
+git push origin master
+tar -cvzf prj2.tgz build_index.sh create_data.py query.py search.py report.pdf scripts/break.pl scripts/check_* scripts/create_data.sh README.txt
+git add prj2.tgz 
+git commit "remove duplicate search.py"
+git commit -m "remove duplicate search.py"
+git push origin master
+cd ../
+ls
+mkdir a5
+mv a5.pdf a5
+cd a5
+ls
+vim algorithm.txt
+vim physical-layer.md 
+vim data-organization.md
+vim hashing.md
+ls
+mv physical-layer.md 06-physical-layer.md 
+mv data-organization.md 07-data-organization.md 
+mv indexing.md 08-indexing.md
+mv hashing.md 09-hashing.md
+ls
+cd ../
+ls
+cd notes/
+ls
+vim 10-normalization
+vim 10-normalization.md
+vim normalforms-notes.txt 
+cd Desktop/biol-430/labs/
+ls
+unzip Lab\ 10\ \(mandatory\ +\ extra\ lab\)-20181202.zip 10/
+unzip -d Lab\ 10\ \(mandatory\ +\ extra\ lab\)-20181202.zip 10/
+ls
+unzip Lab\ 10\ \(mandatory\ +\ extra\ lab\)-20181202.zip -d 10/
+ls
+rm Lab\ 10\ \(mandatory\ +\ extra\ lab\)-20181202.zip 
+cd 10
+ls
+libreoffice Biol430\ Lab10\ Fall\ 2018.doc 
+libreoffice Biol430\ Lab10\ Fall\ 2018.doc & disown
+rstudio Biol430_Lab10_Fall_2018.R  & disown
+vim no_sql_databases.md
+ls
+cd up\ \&\ going/
+ls
+vim practice.js
+vim index.html
+vim practice.js 
+cd Downloads/
+ls
+tar --help
+ls
+cd jetbrains-toolbox-1.12.4481/
+ls
+cp jetbrains-toolbox ~/.bin/
+cd ~/.bin/
+ls
+cd
+jetbrains-toolbox 
+cd Desktop/Dev-Web\ Roadmap/
+cd ../
+ls
+mv Dev-Web\ Roadmap/ dev-web_roadmap
+cd dev-web_roadmap/
+ls
+cd You\ Don\'t\ Know\ JS/
+ls
+cd up\ \&\ going/
+ls
+remarkable ch1.md 
+remarkable ch1.md & disown
+ls
+chromium-browser index.html & disown
+remarkable ch2.md 
+remarkable ch2.md & disown
+ls
+remarkable ch2.md & disown
+remarkable ch3.md & disown
+cd ../
+ls
+remarkable Roadmap.md 
+node --version
+npm --version
+python --version
+python3 --version
+pip --version
+pip3 --version
+sudo npm install -g create-react-app
+cd ../
+ls
+cd web
+vim server.js
+git status
+git add --all
+git status
+git reset .idea/
+git commit -m "reset"
+git status
+vim .gitignore
+git status
+git add .gitignore 
+git commit -m "add gitignore
+"
+vim server.js
+npm run client

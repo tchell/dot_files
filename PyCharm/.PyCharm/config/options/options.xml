@@ -1,0 +1,29 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="pygame&#10;kivy&#10;cython&#10;javac&#10;buildoz" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.182" value="18" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/cmput-291/mini-project-1&#10;/home/tan/Desktop/beaver&#10;/home/tan/Documents/img_processor/k-colouring.py&#10;/home/tan/Documents/img_processor&#10;/home/tan/Desktop/cmput-291/sqlite3-example1.py&#10;/home/tan/Desktop/cmput-396/games-puzzles-algorithms&#10;/home/tan/Desktop/ToDo&#10;/home/tan/proj/learn_kivy/crash-course&#10;/home/tan/Desktop/cmput-396/games-puzzles-algorithms/simple/maze/m.txt&#10;/home/tan/proj/learn_kivy&#10;/home/tan/proj/learn_kivy/Paint&#10;/home/tan/Documents/kivy-examples&#10;/home/tan/python_env/kivy-test/bin/python3&#10;/home/tan/proj/learn_kivy/bin/python&#10;/home/tan/proj/kivy-test/bin/python3&#10;/home/tan/proj&#10;/home/tan/Downloads/PyCharm_kv_completion.jar&#10;/home/tan/Documents/talk_python&#10;/home/tan/Documents/talk_python/06-cat-factory/program.py&#10;/home/tan/Documents/talk_python/06-cat-factory&#10;/home/tan/Documents/talk_python/04-journal/editor.py" />
+    <property name="file.gist.reindex.count" value="57313" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1541375131210" />
+    <property name="lastTip" value="1" />
+    <property name="ts.lib.d.ts.version" value="3.1.1" />
+  </component>
+</application>

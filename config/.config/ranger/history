@@ -1,0 +1,26 @@
+help
+set editor
+set EDITOR
+EDITOR='vim-gtk'
+search wallpaper
+search wall
+rename
+mkdir gui
+mkdir cli
+vi main.py
+rename action_assassin
+time python3 fib.py
+!git pull
+git pull
+rename games
+--copy-config=all
+ranger --copy-config=all
+xterm
+delete
+search .vimrc
+delete __MACOSX/
+
+open_with 
+qw
+open_with vim
+s

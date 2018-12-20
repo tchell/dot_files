@@ -1,0 +1,217 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/cmput-291/mini-project-1" />
+        <option value="$USER_HOME$/Desktop/beaver" />
+        <option value="$USER_HOME$/Documents/img_processor" />
+        <option value="$USER_HOME$/Desktop/ToDo" />
+        <option value="$USER_HOME$/proj/learn_kivy/crash-course" />
+        <option value="$USER_HOME$/Desktop/cmput-396/games-puzzles-algorithms" />
+        <option value="$USER_HOME$/proj/learn_kivy" />
+        <option value="$USER_HOME$/proj/learn_kivy/Paint" />
+        <option value="$USER_HOME$/Documents/kivy-examples" />
+        <option value="$USER_HOME$/Documents/talk_python/09_real_estate" />
+        <option value="$USER_HOME$/Documents/talk_python/08_file_search" />
+        <option value="$USER_HOME$/Documents/talk_python/07_wizard_battle" />
+        <option value="$USER_HOME$/Documents/talk_python/06_lolcat_factory" />
+        <option value="$USER_HOME$/Documents/talk_python/06-cat-factory" />
+        <option value="$USER_HOME$/Documents/talk_python" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/cmput-291/mini-project-1" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/Desktop/ToDo" value="ToDo, games-puzzles-algorithms" />
+        <entry key="$USER_HOME$/proj/learn_kivy/crash-course" value="crash-course, ToDo" />
+      </map>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/cmput-291/mini-project-1" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/ToDo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539382411413" />
+              <option name="buildTimestamp" value="1537358504786" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/beaver">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541375497619" />
+              <option name="buildTimestamp" value="1537358484524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/cmput-291/mini-project-1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.4588.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544802504076" />
+              <option name="buildTimestamp" value="1543945259138" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/cmput-396/games-puzzles-algorithms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4323.49" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536866627744" />
+              <option name="buildTimestamp" value="1536049473318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/img_processor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1540074533634" />
+              <option name="buildTimestamp" value="1537358477252" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/kivy-examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533421067450" />
+              <option name="buildTimestamp" value="1532438168859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532038983901" />
+              <option name="buildTimestamp" value="1527146104166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python/06-cat-factory">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532039192198" />
+              <option name="buildTimestamp" value="1527146104166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python/06_lolcat_factory">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532042591575" />
+              <option name="buildTimestamp" value="1527146151659" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python/07_wizard_battle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.5087.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532130242604" />
+              <option name="buildTimestamp" value="1527146108327" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python/08_file_search">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532739469736" />
+              <option name="buildTimestamp" value="1532438213942" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/talk_python/09_real_estate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533052717298" />
+              <option name="buildTimestamp" value="1532438209414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/proj/learn_kivy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4323.49" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536769401411" />
+              <option name="buildTimestamp" value="1536049496727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/proj/learn_kivy/Paint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.3684.100" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533421576785" />
+              <option name="buildTimestamp" value="1532438168859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/proj/learn_kivy/crash-course">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4323.49" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537302833456" />
+              <option name="buildTimestamp" value="1536049484752" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/talk_python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527823658594" />
+              <option name="buildTimestamp" value="1527148713693" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+  </component>
+</application>

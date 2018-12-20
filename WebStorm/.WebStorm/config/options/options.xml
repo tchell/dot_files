@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="20-135-255-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SplitFileEditor.Proportion" value="0.15" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/portfolio/package.json&#10;/home/tan/Desktop/todo&#10;/home/tan/Desktop/portfolio/server.js&#10;/home/tan/Desktop/portfolio&#10;/home/tan/Desktop&#10;/home/tan/Desktop/web&#10;/home/tan/Desktop/AncientBeast&#10;/home/tan/Desktop/todo/client/public/index.html&#10;/home/tan/Desktop/web/client/src&#10;/home/tan&#10;/home/tan/proj&#10;/home/tan/Desktop/web/server.js" />
+    <property name="file.gist.reindex.count" value="94605" />
+    <property name="ideavim.statistics.timestamp" value="1545104161014" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="34899" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.1.1" />
+  </component>
+</application>

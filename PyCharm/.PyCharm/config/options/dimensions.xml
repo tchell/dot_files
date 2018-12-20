@@ -1,0 +1,55 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="434" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="545" y="335" />
+    <location key="SettingsEditor.0.0.1920.1080" x="797" y="209" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="418" y="170" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="726" y="188" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="602" y="312" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="600" y="203" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="0" y="905" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1063" y="490" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="738" y="390" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="574" />
+    <location key="SettingsEditor.0.0.2560.1440" x="1142" y="148" />
+    <location key="bookmarks.0.0.2560.1440" x="1252" y="360" />
+    <location key="#Notifications.0.0.1920.1080" x="712" y="279" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2560.1440" x="1010" y="607" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.2560.1440" x="643" y="293" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.2560.1440" x="815" y="391" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1105" height="718" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="332" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="332" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" width="705" height="405" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" width="710" height="624" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="128" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="1918" height="497" />
+    <size key="FileChooserDialogImpl.0.0.2560.1440" width="555" height="498" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1060" height="720" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2512" height="388" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2512" height="388" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2512" height="388" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2512" height="388" />
+    <size key="bookmarks.0.0.2560.1440" width="864" height="347" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2512" height="494" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2512" height="494" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2512" height="494" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2512" height="494" />
+    <size key="#Notifications.0.0.1920.1080" width="486" height="559" />
+    <size key="GridCell.Tab.0.left.0.0.5120.1440" width="1232" height="273" />
+    <size key="GridCell.Tab.0.center.0.0.5120.1440" width="1232" height="273" />
+    <size key="GridCell.Tab.0.right.0.0.5120.1440" width="1232" height="273" />
+    <size key="GridCell.Tab.0.bottom.0.0.5120.1440" width="1232" height="273" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2560.1440" width="529" height="263" />
+    <size key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.2560.1440" width="624" height="532" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1084" height="733" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1084" height="735" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.2560.1440" width="920" height="624" />
+  </component>
+</application>
