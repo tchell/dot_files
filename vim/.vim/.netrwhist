@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tan/Desktop/web/client/src'
+let g:netrw_dirhist_2='/home/tan/Desktop/cmput-396/games/lib/games_puzzles_algorithms/puzzles'
+let g:netrw_dirhist_3='/home/tan/.bin'
+let g:netrw_dirhist_4='/home/tan/.bin/dart-sass'
+let g:netrw_dirhist_5='/home/tan/.bin/dart-sass/src'
+let g:netrw_dirhist_6='/home/tan/.vim'
