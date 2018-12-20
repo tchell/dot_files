@@ -37,7 +37,7 @@ if (has("termguicolors"))
 endif
 
 set background=dark
-colorscheme material
+colorscheme jellybeans
 
 " Global Tabs & Spaces
 set tabstop=4
