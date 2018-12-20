@@ -1,3 +1,5 @@
+#include ".Xresources.d/xterm"
+
 xterm*font: terminus
 xterm*boldFont: terminus
 xterm*loginShell: true

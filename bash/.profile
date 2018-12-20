@@ -20,3 +20,7 @@ fi
 if [ -d "$HOME/.bin" ] ; then
     PATH="$PATH:$HOME/.bin"
 fi
+
+if [[ ! $DISPLAY && $XDG_VTNR -eq 1 ]]; then
+  exec startx
+fi
