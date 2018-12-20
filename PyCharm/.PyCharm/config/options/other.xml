@@ -1,0 +1,37 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/talk_python/06_lolcat_factory/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/talk_python/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/proj/kivy-test/bin/python3" value="false" />
+        <entry key="$USER_HOME$/proj/learn_kivy/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/python_env/kivy-test/bin/python3" value="false" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/talk_python/06_lolcat_factory/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/talk_python/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/proj/kivy-test/bin/python3" value="false" />
+        <entry key="$USER_HOME$/proj/learn_kivy/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/python_env/kivy-test/bin/python3" value="false" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/talk_python/06_lolcat_factory/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/talk_python/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/proj/kivy-test/bin/python3" value="false" />
+        <entry key="$USER_HOME$/proj/learn_kivy/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/python_env/kivy-test/bin/python3" value="false" />
+        <entry key="/usr/bin/python3" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

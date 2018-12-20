@@ -1,0 +1,89 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/todo" />
+        <option value="$USER_HOME$/Desktop/portfolio" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/portfolio" />
+        <option value="$USER_HOME$/Desktop/todo" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/todo" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4588.66" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544912633962" />
+              <option name="buildTimestamp" value="1544018268551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/AncientBeast">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4284.130" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544648587146" />
+              <option name="buildTimestamp" value="1542631972471" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/portfolio">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4588.66" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545112549083" />
+              <option name="buildTimestamp" value="1544018243407" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/todo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4588.66" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545112549083" />
+              <option name="buildTimestamp" value="1544018243407" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4284.130" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544653687563" />
+              <option name="buildTimestamp" value="1542631927869" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-183.4284.130" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543956044065" />
+              <option name="buildTimestamp" value="1542631937849" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+  </component>
+</application>
