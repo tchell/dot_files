@@ -1,6 +1,8 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
+. ~/.git-completion.bash
+. ~/.git-prompt.sh
 
 # If not running interactively, don't do anything
 case $- in
@@ -57,7 +59,9 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-    PS1="\[\e[32m\]\u\[\e[m\]\[\e[33m\]|\[\e[m\]\[\e[32m\]\W\[\e[m\]\[\e[33m\] >\[\e[m\] "
+    export GIT_PS1_SHOWDIRTYSTATE=1
+    PS1='$(__git_ps1 " (%s) ")\[\e]2;\w\a\]\[\e[35m\]\u\[\e[m\]\[\e[37m\]\e[1m|\[\e[m\]\h \e[1m\w\e[0m\n-> '
+
 else
     PS1='\u|\W > '
 fi
@@ -123,4 +127,12 @@ if ! shopt -oq posix; then
   elif [ -f /etc/bash_completion ]; then
     . /etc/bash_completion
   fi
+fi
+
+# load virtualenvwrapper for python (after custom PATHs)
+venvwrap="virtualenvwrapper.sh"
+/usr/bin/which -a $venvwrap
+if [ $? -eq 0 ]; then
+    venvwrap=`/usr/bin/which $venvwrap`
+    source $venvwrap
 fi
