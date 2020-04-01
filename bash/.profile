@@ -18,10 +18,32 @@ fi
 
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/bin" ] ; then
-    PATH="$PATH:$HOME/bin"
+    PATH="$HOME/bin:$PATH"
 fi
 
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
+fi
+
+# include flutter
+if [ -d "$HOME/tools/flutter/bin" ]; then
+    PATH="$HOME/tools/flutter/bin:$PATH"
+    PATH="$HOME/.pub-cache/bin:$PATH"
+fi
+
+# include go
+if [ -d "/usr/local/go/bin" ]; then
+    PATH="/usr/local/go/bin:$PATH"
+    GOPATH="$HOME/go/"
+    PATH="$GOPATH:$GOPATH/bin:$PATH"
+fi
+
+# set PATH so it includes ~/.npm-global if it exists
+if [ -d "$HOME/.npm-global" ]; then
+    PATH="$HOME/.npm-global/bin:$PATH"
+fi
+
+if [ -d "$HOME/dev/496-cmput/gogui/bin" ]; then
+        PATH="$HOME/dev/496-cmput/gogui/bin:$PATH"
 fi

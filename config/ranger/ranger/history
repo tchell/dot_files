@@ -1,0 +1,15 @@
+editor
+h
+shell 
+shell $EDITOR
+!vim server.js
+rename src
+Q
+rename 05 Romanticism Realism Religion
+open_with 
+rename Romanticism Realism Religion.ppt
+open_with vim
+mkdir code
+
+open_with sqlite3
+delete

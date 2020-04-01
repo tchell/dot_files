@@ -1,4 +1,20 @@
 
+" required by Vundle
+set nocompatible
+filetype off
+
+" set runtime path to include Vundle
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" let Vundle manage itself
+Plugin 'VundleVim/Vundle.vim'
+
+Plugin 'Valloric/YouCompleteMe'
+
+call vundle#end()
+"Plugins installed with Vundle
+"
+" Plugins installed with Vim-Plug
 " Download plugins to specific directory
 call plug#begin('~/.vim/plugged')
 
@@ -6,9 +22,6 @@ call plug#begin('~/.vim/plugged')
 
 " Material colors
 Plug 'kaicataldo/material.vim'
-
-" Solarized colors
-Plug 'https://github.com/altercation/vim-colors-solarized.git'
 
 " Distinguished colors
 Plug 'https://github.com/Lokaltog/vim-distinguished.git'
@@ -22,7 +35,13 @@ Plug 'https://github.com/pangloss/vim-javascript.git'
 " Zeal Vim extension
 Plug 'KabbAmine/zeavim.vim'
 
+" vim-latex
+Plug 'https://github.com/vim-latex/vim-latex.git'
+
 call plug#end()
+
+" Set backup location
+set backupdir=~/tmp
 
 " Enable syntax
 syntax enable
@@ -37,13 +56,18 @@ if (has("termguicolors"))
 endif
 
 set background=dark
-colorscheme material
+colorscheme jellybeans
 
 " Global Tabs & Spaces
 set tabstop=4
+set softtabstop=4
+set shiftwidth=4
 set expandtab	" insert spaces as tabs
+set autoindent
+set fileformat=unix
 filetype indent plugin on	" load file-type specific indents
 
+let g:tex_flavor='latex'
 
 set number	" Show line numbers
 

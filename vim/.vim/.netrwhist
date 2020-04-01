@@ -1,8 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/tan/Desktop/web/client/src'
-let g:netrw_dirhist_2='/home/tan/Desktop/cmput-396/games/lib/games_puzzles_algorithms/puzzles'
-let g:netrw_dirhist_3='/home/tan/.bin'
-let g:netrw_dirhist_4='/home/tan/.bin/dart-sass'
-let g:netrw_dirhist_5='/home/tan/.bin/dart-sass/src'
-let g:netrw_dirhist_6='/home/tan/.vim'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/tan/dev/496-cmput/assignment1/.git'
+let g:netrw_dirhist_2='/home/tan/dev/496-cmput/assignment2/.git'
+let g:netrw_dirhist_3='/home/tan/dev/496-cmput/tmp/assignment2/.git'
+let g:netrw_dirhist_4='/home/tan/drive/Servus/.git'
